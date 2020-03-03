@@ -1,0 +1,5 @@
+https://towardsdatascience.com/phishing-domain-detection-with-ml-5be9c99293e5
+
+https://github.com/npapernot/phishing-detection
+
+https://www.codeproject.com/Articles/1232758/Detect-E-mail-Spam-Using-Python

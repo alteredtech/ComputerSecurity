@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<title>HW2 Part 3</title>
+	</head>
+
+	<body>
+		<div id="content">
+			<h1>Homework 2 Part 3</h1>
+			<div id="flex-container">
+				<div id="getKey">
+					<h2>Find the Key</h2>
+					<div class="input-label">Plaintext: </div>
+					<input
+						id="plaintextInput"
+						type="text"
+					/>
+					<div class="input-label">Ciphertext: </div>
+					<input
+						id="ciphertextInput"
+						type="text"
+					/>
+					<div class="input-label">Key Length: </div>
+					<input
+						id="keyLengthInput"
+						type="text"
+					/>
+					<div>
+						<button onclick="onEncryptPressed()">Get Key</button>
+					</div>
+					<div>Result: </div>
+					<div id="Result">...</div>
+				</div>
+			</div>
+		</div>
+		<link
+			href="styles.css"
+			rel="stylesheet"
+		/>
+		<script src="crypto.js"></script>
+		<script src="main.js"></script>
+	</body>
+
+</html>

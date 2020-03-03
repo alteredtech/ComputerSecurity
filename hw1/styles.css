@@ -1,0 +1,61 @@
+body {
+	font-family: sans-serif;
+	text-align: center;
+	font-size: 18px;
+	word-break: break-all;
+}
+
+#content {
+	width: 650px;
+	margin: auto;
+}
+
+button {
+	background-color: #55ABB5;
+	border-radius: 5px;
+	border: none;
+	padding: 8px;
+	margin-top: 8px;
+	margin-bottom: 8px;
+}
+
+button:hover {
+	background-color: #63CCCA;
+	cursor: pointer;
+}
+
+.input-label {
+	margin: 5px;
+	margin-top: 10px;
+}
+
+input {
+	border: 0px solid;
+	border-radius: 5px;
+	padding: 5px;
+}
+input:focus {
+	border: 1px solid #000000;
+  }
+
+#flex-container {
+	display: flex;
+}
+
+#encrypter {
+	margin: auto;
+	margin-top: 0px;
+	border-radius: 10px;
+	background-color: #EEEEEE;
+	padding: 20px;
+	width: 250px;
+}
+
+#decrypter {
+	margin: auto;
+	margin-top: 0px;
+	border-radius: 10px;
+	background-color: #EEEEEE;
+	padding: 20px;
+	width: 250px;
+}

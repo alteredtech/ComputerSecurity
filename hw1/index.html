@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<title>HW1</title>
+	</head>
+
+	<body>
+		<div id="content">
+			<h1>Homework 1</h1>
+			<div id="flex-container">
+				<div id="encrypter">
+					<h2>Encrypter</h2>
+					<div class="input-label">Plaintext: </div>
+					<input
+						id="plaintextInput"
+						type="text"
+					/>
+					<div class="input-label">Key: </div>
+					<input
+						id="plaintextKeyInput"
+						type="text"
+					/>
+					<div>
+						<button onclick="onEncryptPressed()">Encrypt</button>
+					</div>
+					<div>Result (Ciphertext): </div>
+					<div id="encryptResult">...</div>
+				</div>
+				<div id="decrypter">
+					<h2>Decrypter</h2>
+					<div class="input-label">Ciphertext: </div>
+					<input
+						id="ciphertextInput"
+						type="text"
+					/>
+					<div class="input-label">Key: </div>
+					<input
+						id="ciphertextKeyInput"
+						type="text"
+					/>
+					<div>
+						<button onclick="onDecryptPressed()">Decrypt</button>
+					</div>
+					<div>Result (Plaintext): </div>
+					<div id="decryptResult">...</div>
+				</div>
+			</div>
+		</div>
+		<link
+			href="styles.css"
+			rel="stylesheet"
+		/>
+		<script src="crypto.js"></script>
+		<script src="main.js"></script>
+	</body>
+
+</html>

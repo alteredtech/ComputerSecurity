@@ -1,0 +1,12 @@
+# Presentation links
+1. [Google drones](https://theintercept.com/2019/03/25/google-project-maven-pentagon-foia/)
+2. [Military spy drones](http://www.defensenews.com/story/military/pentagon/2016/03/09/pentagon-spy-drones-over-us/81522606/)
+3. [China bird drones](https://www.theatlantic.com/international/archive/2018/08/china-surveillance-technology-muslims/567443/)
+4. [Homeland Security recognize your face](https://www.cato.org/multimedia/cato-daily-podcast/homeland-security-wants-drones-recognize-face)
+5. [Data threat from china made drones](https://secalerts.co/article/us-government-warns-of-data-threat-by-chinese-made-drones)
+6. [Drone stealing data from blinking lights](https://www.wired.com/2017/02/malware-sends-stolen-data-drone-just-pcs-blinking-led/)
+7. [Beware the drone](https://resources.infosecinstitute.com/privacy-and-security-issues-with-drones/)
+8. [Drones: A security tool](https://www.securitymagazine.com/articles/88803-drones-a-security-tool-threat-and-challenge)
+9. [Drones public space](https://www.securitymagazine.com/articles/88803-drones-a-security-tool-threat-and-challenge)
+10. [drones: cybersecurity nightmare](https://threatpost.com/drones-breach-cyberdefenses/143075/)
+11. [Drone laws](https://uavcoach.com/drone-laws-in-united-states-of-america/)
